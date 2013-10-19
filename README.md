@@ -1,10 +1,7 @@
 Google App Engine Apps
 ==============
 
-Research activities
+Experimental activities
 --------------
-
-
-**few listed :-**
 
 - Hangout app with youtube player
